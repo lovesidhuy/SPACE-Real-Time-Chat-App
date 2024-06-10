@@ -16,3 +16,8 @@ SYNC SPACE is a real-time chat application built using Socket.IO for seamless co
 * **Socket.IO:**  Enables real-time, bidirectional communication between the web browser and server.
 * **HTML, CSS, and JavaScript:**  The foundation of the front-end interface.
 * **Gradient Background & Blur Effects (CSS):**  Visually enhance the chat interface.
+## DEMO
+
+
+https://github.com/lovesidhuy/SPACE-Real-Time-Chat-App/assets/115596293/f4149822-7d9d-41dc-b5ac-49d8df5ecd8b
+
